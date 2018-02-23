@@ -2,7 +2,7 @@
 
 This app shows the CRUD functionality for a blog using React/Redux.
 
-### Installing
+## Installing
 
-> npm install
-> npm start
+npm install
+npm start
