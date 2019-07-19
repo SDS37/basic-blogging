@@ -24,7 +24,10 @@
         "react-addons-test-utils": "^0.14.7",
         "webpack": "^1.12.9",
         "webpack-dev-server": "^1.14.0",
-        "querystringify": ">=2.0.0"
+        "querystringify": ">=2.0.0",
+        "cryptiles": ">=4.1.2",
+        "url-parse": ">=1.4.3",
+        "lodash-es": ">=4.17.14"
     },
     "dependencies": {
         "axios": "^0.19.0",
